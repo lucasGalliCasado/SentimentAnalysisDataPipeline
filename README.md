@@ -1,2 +1,2 @@
 Usando Pandas, Selenium y la API de OpenAI scrapea noticias de google news (los queries pueden moficarse). Se puede modificar la vejez de la noticia con la variable cantDias(el default es 25). Luego confecciona 
-una base de datos que incluye Query,	Titulo,	Fecha,	Url,	Texto y	Sentimiento como atributos. El analisis de sentimiento es hecho por ChatGPT y sus posibles valores son "positivo","negativo" y "nuetral"
+una base de datos que incluye Query,	Titulo,	Fecha,	Url,	Texto y	Sentimiento como atributos. El analisis de sentimiento es hecho por ChatGPT y sus posibles valores son "positivo","negativo" y "nuetral", esto puede modificarse facilmente cambiando el prompt presente en el codigo.
