@@ -1,4 +1,4 @@
-#Base de datos de Analisis de Sentimiento
+# Base de datos de Analisis de Sentimiento
 
 Usando Pandas, Selenium y la API de OpenAI el programa scrapea noticias relevantes de google news y luego analiza su sentimiento y carga la informacion relvante en un archivo xlsx.
 
